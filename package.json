@@ -145,7 +145,7 @@
     "markdown-toc": "1.2.0",
     "mkdirp": "^1.0.4",
     "ncp": "2.0.0",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "nodemon": "2.0.6",
     "pkg-dir": "^4.2.0",
     "plop": "2.7.4",
